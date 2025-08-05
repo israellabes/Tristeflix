@@ -1,2 +1,2 @@
-# Tristeflix
+# Legalflix
 descrição
